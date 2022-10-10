@@ -1,4 +1,5 @@
 // Reading to a file
+
 // let fs= require("fs");
 // let fname= "dikshya.txt"
 // fs.promises.readFile(fname,"utf8")
@@ -8,6 +9,7 @@
 
 
 //  Writing to a file;
+
 let fs= require("fs");
 const file = 'hello_world.txt';
 const data = 'Hello, World!';
